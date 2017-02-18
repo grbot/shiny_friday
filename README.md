@@ -1,2 +1,2 @@
 # shiny_friday
-SatRday's Friday Shiny session
+SatRday's Shiny Friday session
